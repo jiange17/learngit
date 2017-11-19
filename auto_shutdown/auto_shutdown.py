@@ -4,6 +4,7 @@ import os, time, re
 print('1,输入关机时间，格式如：小时:分钟 举个栗子：20:21 然后敲回车 即可\n'+
       '2,取消定时关机 再次双击打开程序 输入 off 敲回车 即可\n'+
       '3,退出程序，输入exit敲回车 即可\n')
+
 while True:
     input_time = input('请输入：')
     input_time.replace('：', ':')#将中文字符下的'：'替换成英文的':'。
