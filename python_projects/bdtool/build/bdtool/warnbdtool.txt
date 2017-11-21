@@ -1,0 +1,18 @@
+missing module named resource - imported by posix, G:\myGit\python_projects\bdtool\bdtool.py
+missing module named posix - imported by os, G:\myGit\python_projects\bdtool\bdtool.py
+missing module named _posixsubprocess - imported by subprocess, G:\myGit\python_projects\bdtool\bdtool.py
+missing module named 'org.python' - imported by pickle, G:\myGit\python_projects\bdtool\bdtool.py, xml.sax
+missing module named ce - imported by os, G:\myGit\python_projects\bdtool\bdtool.py
+missing module named readline - imported by cmd, code, pdb, G:\myGit\python_projects\bdtool\bdtool.py
+excluded module named _frozen_importlib - imported by importlib, importlib.abc, G:\myGit\python_projects\bdtool\bdtool.py
+missing module named _frozen_importlib_external - imported by importlib._bootstrap, importlib, importlib.abc, G:\myGit\python_projects\bdtool\bdtool.py
+missing module named _winreg - imported by platform, G:\myGit\python_projects\bdtool\bdtool.py
+missing module named java - imported by platform, G:\myGit\python_projects\bdtool\bdtool.py
+missing module named 'java.lang' - imported by platform, G:\myGit\python_projects\bdtool\bdtool.py, xml.sax._exceptions
+missing module named vms_lib - imported by platform, G:\myGit\python_projects\bdtool\bdtool.py
+missing module named termios - imported by tty, getpass, G:\myGit\python_projects\bdtool\bdtool.py
+missing module named grp - imported by tarfile, shutil, G:\myGit\python_projects\bdtool\bdtool.py
+missing module named _dummy_threading - imported by dummy_threading, G:\myGit\python_projects\bdtool\bdtool.py
+missing module named pwd - imported by posixpath, tarfile, shutil, http.server, webbrowser, netrc, getpass, G:\myGit\python_projects\bdtool\bdtool.py
+missing module named org - imported by copy, G:\myGit\python_projects\bdtool\bdtool.py
+missing module named _scproxy - imported by urllib.request
